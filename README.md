@@ -10,7 +10,7 @@ I created this project as a way of testing .NET 5 Worker Services, active loggin
 - Visual Micro Arudino IDE for Visual Studio
 - SQL Server Express
 
-### Key takeaways
+### What I learned creating this project
 - How to program an Arduino UNO R3 using the Visual Micro Arduino IDE in Visual Studio 2019.
 - How to use Serilog for structured logging.
 - How to use transient services in .NET 5.
